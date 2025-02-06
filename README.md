@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divya
-- 👀 I’m interested in creating new machnes
+- 👀 I’m interested in creating new machines
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate with elon musk
 - 📫 How to reach me = through my email address
